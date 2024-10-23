@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 изменения в дев3
+||||||| merged common ancestors
+=======
+бобр 
+>>>>>>> de1eeb89bb2ab5ebf78f9d02c4798c47d5a4afc9
